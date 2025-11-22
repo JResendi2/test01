@@ -5,3 +5,6 @@ Skils:
     - BD
     - FRONTEND
     - BACKEND
+
+Procesos:
+    - SCRUM
