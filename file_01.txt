@@ -1,2 +1,7 @@
 Actualmente vivo en Monterrey. Tengo un trabajo
-de programador
+de programador.
+
+Skils:
+    - BD
+    - FRONTEND
+    - BACKEND
